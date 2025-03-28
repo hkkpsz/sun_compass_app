@@ -38,5 +38,5 @@ flutter run
 
 Bu proje MIT lisansı altında lisanslanmıştır.
 =======
-# G-ne-Pusulas-
+# Güneş Pusulası
 >>>>>>> 23e326095b6f3a61b3ee7171731b484579cd51d0
