@@ -1,16 +1,38 @@
-# pusula_app
+# Güneş Pusulası
 
-A new Flutter project.
+Güneş Pusulası, telefonunuzu güneşe doğru yönlendirmenize yardımcı olan bir Flutter uygulamasıdır.
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
+- Gerçek zamanlı pusula yönü
+- Güneş yönü takibi
+- Animasyonlu güneş ikonu
+- Modern ve kullanıcı dostu arayüz
+- Güney yönü tespiti
 
-A few resources to get you started if this is your first Flutter project:
+## Kurulum
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Projeyi klonlayın:
+```bash
+git clone https://github.com/KULLANICI_ADINIZ/pusula_app.git
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Bağımlılıkları yükleyin:
+```bash
+flutter pub get
+```
+
+3. Uygulamayı çalıştırın:
+```bash
+flutter run
+```
+
+## Gereksinimler
+
+- Flutter SDK
+- Android Studio / VS Code
+- Android SDK / Xcode (iOS için)
+
+## Lisans
+
+Bu proje MIT lisansı altında lisanslanmıştır.
