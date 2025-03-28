@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Güneş Pusulası
 
 Güneş Pusulası, telefonunuzu güneşe doğru yönlendirmenize yardımcı olan bir Flutter uygulamasıdır.
@@ -36,3 +37,6 @@ flutter run
 ## Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır.
+=======
+# G-ne-Pusulas-
+>>>>>>> 23e326095b6f3a61b3ee7171731b484579cd51d0
