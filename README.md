@@ -1,42 +1,43 @@
-<<<<<<< HEAD
-# Güneş Pusulası
+# 🌞 Güneş Pusulası – Solar Compass
 
-Güneş Pusulası, telefonunuzu güneşe doğru yönlendirmenize yardımcı olan bir Flutter uygulamasıdır.
+**Güneş Pusulası**, cihazın sensörlerini ve güneşin konum verilerini kullanarak yön tayini yapmanızı sağlayan pratik bir mobil uygulamadır.  
+Güneşin doğuş ve batış açılarını hesaplayarak pusula doğruluğunu artırır. Hem günlük kullanım hem de kamp, doğa yürüyüşü gibi outdoor aktiviteler için idealdir.
 
-## Özellikler
+---
 
-- Gerçek zamanlı pusula yönü
-- Güneş yönü takibi
-- Animasyonlu güneş ikonu
-- Modern ve kullanıcı dostu arayüz
-- Güney yönü tespiti
+## ✨ Özellikler
 
-## Kurulum
+- 🧭 **Gerçek Zamanlı Pusula**  
+  Cihazın manyetik sensörlerinden aldığı verilerle yönü hassas şekilde gösterir.
 
-1. Projeyi klonlayın:
+- 🌞 **Güneş Konumu Hesaplama**  
+  GPS konumunuza ve tarihe göre güneşin doğuş/batış yönünü ve açılarını hesaplar.
+
+- 📍 **Konum Tespiti**  
+  GPS ile bulunduğunuz koordinatları anlık olarak gösterir.
+
+- 🎯 **Outdoor Kullanımına Uygun**  
+  Kamp, doğa yürüyüşü, avcılık gibi açık alan aktivitelerinde güvenilir yön bulma imkânı sunar.
+
+- 🖼️ **Basit ve Anlaşılır Arayüz**  
+  Minimal tasarım ile kolay kullanım.
+
+---
+
+## 🧑‍💻 Kullanılan Teknolojiler
+
+- **Flutter** – Mobil uygulama geliştirme
+- **Dart**
+- **Flutter Compass** – Pusula verileri
+- **Location / Geolocator** – GPS konum bilgisi
+- **Sunrise/Sunset API** – Güneş doğuş/batış hesaplamaları
+
+---
+
+## 🛠️ Kurulum
+
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/pusula_app.git
-```
-
-2. Bağımlılıkları yükleyin:
-```bash
+git clone https://github.com/kullanici-adi/gunes-pusulasi.git
+cd gunes-pusulasi
 flutter pub get
-```
-
-3. Uygulamayı çalıştırın:
-```bash
 flutter run
-```
-
-## Gereksinimler
-
-- Flutter SDK
-- Android Studio / VS Code
-- Android SDK / Xcode (iOS için)
-
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır.
-=======
-# Güneş Pusulası
->>>>>>> 23e326095b6f3a61b3ee7171731b484579cd51d0
